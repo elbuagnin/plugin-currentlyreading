@@ -1,0 +1,7 @@
+base   currentlyreading
+author Charles Fewlass
+email  fewlass@suddenlink.net
+date   2021-07-30
+name   Currently Reading plugin
+desc   Displays an image of a book cover with text that says "Currently Reading" linked to the book/story's page.
+url    https://scrollsoflankhmar.com/wiki:plugins

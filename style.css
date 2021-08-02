@@ -1,0 +1,14 @@
+/* css for class plugin_currentlyreading
+ *
+ * @selector    div.plugin_currentlyreading
+ * @selector    span.plugin_currentlyreading
+ * @selector    a.plugin_currentlyreading
+ * @selector    img.plugin_currentlyreading
+ */
+
+div.plugin_currentlyreading {
+    border: solid black;
+    padding: .5em;
+    color: dimgray;
+    text-align: center;
+}
