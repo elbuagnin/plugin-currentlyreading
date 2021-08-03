@@ -40,6 +40,7 @@ The plugin will use the pagename for the title and will keep any capitalization 
 ### Configuration
 **@param**  *Width* - The default width of the box. \
 **@param**  *Alternate Heading* - An alternate heading to be used in place of the built in heading of "Currently Reading."
+If it is left empty, the plugin will use the default heading.
 
 ### Formatting
 A .css file in the plugin directory can be edited to change the formatting of the box.
