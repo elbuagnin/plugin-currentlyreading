@@ -89,7 +89,7 @@ class syntax_plugin_currentlyreading extends \dokuwiki\Extension\SyntaxPlugin {
         if ($image) {
             $imagetag = '<img class="plugin_currentlyreading" style="max-width: '.$width.'px;" src="'.ml($image).'" alt="'.$title.'" />';
         } else {
-            $imagetag = NULL;
+            $imagetag = null;
         }
 
         // What heading to use?
